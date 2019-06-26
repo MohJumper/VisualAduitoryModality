@@ -1,6 +1,6 @@
-# Please look at README.md then go to section "what are the problem?" to understand the issue here. 
+# Please look at README.md then go to section "what are the problems?" to understand the issue here. 
 
-#Imoprt the participants csv file named "001demo_visual_demo1_2019_May_31_1409" change the name to p1
+#Imoprt the participant csv file named "001demo_visual_demo1_2019_May_31_1409" change the name to p1
 
 
  # install.packages(data.table) to create date set
