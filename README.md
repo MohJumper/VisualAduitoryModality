@@ -54,7 +54,12 @@ key_resp_2.rt: This is the reproduction time for all the trails.
 	Only Sound (V=0 & s=1)
 	
 	Blank (V=0 & s=0)
-	
+
+# what is the problem? 
+
+1. I am geeting different numbers then the number I have using the excel function "averageifs" found in the  "mastersheet_demo_updated"
+2. I need to create a victor for this table of the means to be able to plot all these results?
+
 # Attached files:
 To see an example of how the table should look like see file name "mastersheet_demo_updated" then look within for "Analysis by intervals" sheet.
 
