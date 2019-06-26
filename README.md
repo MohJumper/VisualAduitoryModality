@@ -58,7 +58,7 @@ key_resp_2.rt: This is the reproduction time for all the trails.
 # what are the problems? 
 0.1. everytime I run the code, I get differnt results ? 
 1. I am getting different numbers then the results from excel using function "averageifs" found in the  "mastersheet_demo_updated"
-2. I need to create a victor for this table of the means to be able to plot all these results?
+2. I need to create a vector for this table of the means to be able to plot all these results?
 3. I need to calculate the coefficient of variation (CV) 
 
 # Attached files:
