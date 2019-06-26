@@ -21,7 +21,7 @@ In other words, you are only reproducing what you have attend to.
 Now focus on the image 
 Now focus on the sound 
 
-#### From the cvs. Files there are only five columns that we care about: 
+#### From the csv. files there are only five columns that we care about: 
 
 Opening_text	stim_ending_t	visbility	soundvolume	key_resp_2.rt
   
