@@ -1,4 +1,4 @@
-# VisualAduitoryModality
+# VisualAuditoryModality
 
 # (Preliminary data analysis)
 This is my first attempt to analyze the data for my experiment from Psychopy (version 3.1.2)
