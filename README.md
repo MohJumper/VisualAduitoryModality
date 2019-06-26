@@ -23,16 +23,23 @@ Now focus on the sound
 
 #### From the cvs. Files there are only five columns that we care about: 
 
-# Opening_text	stim_ending_t	visbility	soundvolume	key_resp_2.rt
+Opening_text	stim_ending_t	visbility	soundvolume	key_resp_2.rt
   
- # Opening_text: This contain the two conditions: Now focus on the image (denoted '0' in excel file) & Now focus on the sound  (denoted '1' in excel file).
+ # Opening_text: This contain the two conditions: 
+ 
+Now focus on the image (denoted '0' in excel file) & Now focus on the sound  (denoted '1' in excel file).
 
-# stim_ending_t: These are the six standard time intervals that are randomized through out the experiment.
+# stim_ending_t: 
+
+These are the six standard time intervals that are randomized through out the experiment.
 
 In the reproduction phase the P will randomly be in only one of these conditionds: 
- # visbility: denoted '1' in excel file which means P see the image. When its '0' they do not see image
-# soundvolume:  denoted '1' in excel file which means P hear the music. When its '0' they do not hear the music. 
-# blank/empty: means visbility and soundvolume = 0 P DO NOT see or hear anything, just a blank screen.
+ # visbility: 
+ denoted '1' in excel file which means P see the image. When its '0' they do not see image
+# soundvolume:  
+denoted '1' in excel file which means P hear the music. When its '0' they do not hear the music. 
+# blank/empty: 
+means visbility and soundvolume = 0 P DO NOT see or hear anything, just a blank screen.
 
 key_resp_2.rt: This is the reproduction time for all the trails. 
 
